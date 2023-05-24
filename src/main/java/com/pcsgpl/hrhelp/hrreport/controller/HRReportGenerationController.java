@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.pcsgpl.hrhelp.hrreport.service.HRReportGenerationService;
  //import sun.security.provider.certpath.ResponderId;
-
+//this is our controlller
 @Controller
 @RequestMapping("/pdf")
 public class HRReportGenerationController {
